@@ -1,0 +1,22 @@
+
+    .box {
+        animation-duration: 2s;
+        animation-iteration-count: 1;
+        background: url("../images/orange-house.svg");
+        background-size: 100%;
+        width: 176px;
+        height: 174px;
+        transform-origin: bottom;
+    }
+    .bounce-5 {
+        animation-name: bounceHouse;
+    }
+@keyframes bounceHouse {
+        0%   { transform: scale(1,1)    translateY(0); }
+        10%  { transform: scale(1.1,.9) translateY(0); }
+        30%  { transform: scale(.9,1.1) translateY(-100px); }
+        50%  { transform: scale(1,1)    translateY(0); }
+        57%  { transform: scale(1,1)    translateY(-7px); }
+        64%  { transform: scale(1,1)    translateY(0); }
+        100% { transform: scale(1,1)    translateY(0); }
+    }

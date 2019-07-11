@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="415px" height="5px" viewBox="0 0 415 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>trail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="49.5317459%" x2="-5.06431648%" y2="49.5317452%" id="linearGradient-1">
+            <stop stop-color="#CEEFFC" offset="0%"></stop>
+            <stop stop-color="#91DCF9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Splash-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0,1.74352156 C13.506359,0.581705036 26.1792735,0.000796772578 38.0187437,0.000796772578 C55.7779489,0.000796772578 171.879668,2.45809192 183.963766,2.51391404 C232.817023,2.73959017 252.997891,0.0709850047 305.957135,0.000796772578 C356.830005,-0.0666263342 398.726107,4.17097342 405.543173,2.82735804 C415.668949,0.831609831 417.663192,1.55582382 411.525901,5 L0,5 L0,1.74352156 Z" id="trail" fill="url(#linearGradient-1)"></path>
+    </g>
+</svg>

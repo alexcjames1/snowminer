@@ -1,0 +1,89 @@
+ /********** SECTION: User landing page main hero **********/
+
+.brand-scenery .section--userHero {
+    background: none;
+    padding-bottom: 0;
+}
+.section--userHero .section__content {
+    margin: 0.75em 0 1.25em 0;
+}
+
+
+
+ /********** SECTION: Convenience Is Priority **********/
+
+.section__convenienceIsPriority .row {
+        align-items: center;
+        margin: 1.25rem;
+}
+    .section__convenienceIsPriority .media__subTitle {
+        color: var(--primaryColor);
+    }
+    .section__convenienceIsPriority .media__content {
+        margin-bottom: 1.875em;
+    }
+    .section__convenienceIsPriority .media__figure {
+        text-align: center;
+    }
+    .section__convenienceIsPriority .media__figure img {
+        margin-bottom: 1.25em;
+        max-width: 90%;
+    }
+
+
+
+ /********** SECTION: User Features **********/
+
+.userFeatures .media {
+    text-align: center;
+    margin: 1.25rem;
+}
+    .userFeatures .media .media__figure img {
+        width: 140px;
+    }
+
+
+
+ /********** SECTION: How Snowminer Works **********/
+
+.section__howSnowminerWorks .col-sm-4 {
+    padding: 1.25rem;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+ /********** SECTION: Easy Beautiful Interface **********/
+
+.section__easyBeautifulinterface .row {
+        align-items: center;
+        margin: 1.25rem;
+}
+    .section__easyBeautifulinterface .media__subTitle {
+        color: var(--primaryColor);
+    }
+    .section__easyBeautifulinterface .media__content {
+        margin-bottom: 1.875em;
+    }
+    .section__easyBeautifulinterface .media__figure {
+        text-align: center;
+    }
+    .section__easyBeautifulinterface .media__figure img {
+        margin-bottom: 1.25em;
+        max-width: 70%;
+    }
+
+
+
+ /********** SECTION: Final Things To Click **********/ 
+
+.section__finalThingstoClick {
+    margin-bottom: 1.25em;
+}
+.section__finalThingstoClick .button--link {
+    color: var(--primaryColor);
+    font-weight: 900;
+    text-transform: uppercase;
+}

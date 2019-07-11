@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="565px" height="621px" viewBox="0 0 565 621" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>bg-sky</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 565 0 565 640 0 640"></polygon>
+        <linearGradient x1="45.4143415%" y1="50%" x2="-24.5686849%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#A6E0F6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="57.3649089%" y1="50%" x2="102.042643%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#A6E0F6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M411.985106,380.282421 L417.451734,380.282421 C418.960995,380.282421 420.184492,379.056687 420.184492,377.544669 C420.184492,376.03265 418.960995,374.806916 417.451734,374.806916 L411.985106,374.806916 L401.825862,374.806916 C399.712897,374.806916 398,373.09089 398,370.974063 C398,368.857237 399.712897,367.14121 401.825862,367.14121 L411.985106,367.14121 L420.731044,367.14121 C422.240305,367.14121 423.463803,365.915477 423.463803,364.403458 C423.463803,362.891439 422.240305,361.665706 420.731044,361.665706 L414.530521,361.665706 C412.417556,361.665706 410.704659,359.949679 410.704659,357.832853 C410.704659,355.716027 412.417556,354 414.530521,354 L454.854723,354 C456.967688,354 458.680585,355.716027 458.680585,357.832853 C458.680585,359.949679 456.967688,361.665706 454.854723,361.665706 L445.872423,361.665706 L432.754071,361.665706 C431.24481,361.665706 430.021313,362.891439 430.021313,364.403458 C430.021313,365.915477 431.24481,367.14121 432.754071,367.14121 L445.735786,367.14121 L445.599148,367.14121 C447.712113,367.14121 449.42501,368.857237 449.42501,370.974063 C449.42501,373.09089 447.712113,374.806916 445.599148,374.806916 L439.312692,374.806916 C437.803431,374.806916 436.579933,376.03265 436.579933,377.544669 C436.579933,379.056687 437.803431,380.282421 439.312692,380.282421 L445.872423,380.282421 L463.46825,380.282421 C465.581215,380.282421 467.294112,381.998448 467.294112,384.115274 C467.294112,386.2321 465.581215,387.948127 463.46825,387.948127 L411.985106,387.948127 C409.87214,387.948127 408.159244,386.2321 408.159244,384.115274 C408.159244,381.998448 409.87214,380.282421 411.985106,380.282421 Z" id="path-5"></path>
+        <linearGradient x1="45.4143415%" y1="50%" x2="-24.5686849%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#A6E0F6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="57.3649089%" y1="50%" x2="111.458837%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#A6E0F6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M11.232145,428.149631 L22.35002,428.149631 C23.7453986,428.149631 24.8765764,427.016386 24.8765764,425.618458 C24.8765764,424.220529 23.7453986,423.087285 22.35002,423.087285 L11.4848007,423.087285 C9.53127072,423.087285 7.94762179,421.500742 7.94762179,419.543642 C7.94762179,417.586543 9.53127072,416 11.4848007,416 L42.5624708,416 C44.5160008,416 46.0996497,417.586543 46.0996497,419.543642 C46.0996497,421.500742 44.5160008,423.087285 42.5624708,423.087285 L39.0242649,423.087285 C37.6288864,423.087285 36.4977086,424.220529 36.4977086,425.618458 C36.4977086,427.016386 37.6288864,428.149631 39.0242649,428.149631 L42.562471,428.149631 C44.5160008,428.149631 46.0996497,429.736174 46.0996497,431.693273 C46.0996497,433.650373 44.5160008,435.236916 42.5624708,435.236916 L3.53717889,435.236916 C1.58364893,435.236916 0,433.650373 0,431.693273 C0,429.736174 1.58364893,428.149631 3.53717889,428.149631 L11.232145,428.149631 Z" id="path-8"></path>
+    </defs>
+    <g id="Splash-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bg-sky" transform="translate(0.000000, -10.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="Snow" mask="url(#mask-2)" fill="#FFFFFF">
+                <g transform="translate(-690.000000, -152.000000)" id="Oval-6">
+                    <circle fill-opacity="0.3" opacity="0.95" transform="translate(1253.531624, 705.310430) rotate(-278.000000) translate(-1253.531624, -705.310430) " cx="1253.53162" cy="705.31043" r="1"></circle>
+                    <circle fill-opacity="0.3" opacity="0.85" transform="translate(766.861903, 421.042963) rotate(-238.000000) translate(-766.861903, -421.042963) " cx="766.861903" cy="421.042963" r="1"></circle>
+                    <circle fill-opacity="0.3" opacity="0.71" transform="translate(838.814775, 179.475861) rotate(-110.000000) translate(-838.814775, -179.475861) " cx="838.814775" cy="179.475861" r="1.5"></circle>
+                    <circle opacity="0.89" transform="translate(1237.273765, 163.675692) rotate(-181.000000) translate(-1237.273765, -163.675692) " cx="1237.27377" cy="163.675692" r="1.5"></circle>
+                    <circle opacity="0.92" transform="translate(909.732886, 169.854216) rotate(-155.000000) translate(-909.732886, -169.854216) " cx="909.732886" cy="169.854216" r="1"></circle>
+                    <circle opacity="0.96" transform="translate(762.164708, 503.770679) rotate(-79.000000) translate(-762.164708, -503.770679) " cx="762.164708" cy="503.770679" r="1.5"></circle>
+                    <circle fill-opacity="0.15" opacity="0.8" transform="translate(1139.982959, 506.215661) rotate(-181.000000) translate(-1139.982959, -506.215661) " cx="1139.98296" cy="506.215661" r="1.5"></circle>
+                    <circle fill-opacity="0.15" opacity="0.79" transform="translate(1135.687355, 280.325870) rotate(-165.000000) translate(-1135.687355, -280.325870) " cx="1135.68735" cy="280.32587" r="1"></circle>
+                    <circle fill-opacity="0.15" opacity="0.82" transform="translate(1094.214785, 168.472572) rotate(-71.000000) translate(-1094.214785, -168.472572) " cx="1094.21479" cy="168.472572" r="1"></circle>
+                    <circle fill-opacity="0.15" opacity="0.84" transform="translate(963.120777, 267.773702) rotate(-90.000000) translate(-963.120777, -267.773702) " cx="963.120777" cy="267.773702" r="1.5"></circle>
+                    <circle fill-opacity="0.7" opacity="0.97" transform="translate(1054.881078, 618.248741) rotate(-213.000000) translate(-1054.881078, -618.248741) " cx="1054.88108" cy="618.248741" r="1"></circle>
+                    <circle fill-opacity="0.7" opacity="0.79" transform="translate(1194.251630, 567.057197) rotate(-241.000000) translate(-1194.251630, -567.057197) " cx="1194.25163" cy="567.057197" r="1.5"></circle>
+                    <circle fill-opacity="0.3" opacity="0.74" transform="translate(918.950773, 402.255739) rotate(-225.000000) translate(-918.950773, -402.255739) " cx="918.950773" cy="402.255739" r="1"></circle>
+                    <circle fill-opacity="0.3" opacity="0.81" transform="translate(721.451082, 623.797457) rotate(-251.000000) translate(-721.451082, -623.797457) " cx="721.451082" cy="623.797457" r="1"></circle>
+                    <circle fill-opacity="0.3" opacity="0.94" transform="translate(1137.342635, 377.463282) rotate(-357.000000) translate(-1137.342635, -377.463282) " cx="1137.34264" cy="377.463282" r="1.5"></circle>
+                    <circle fill-opacity="0.3" opacity="0.74" transform="translate(902.611289, 722.758041) rotate(-354.000000) translate(-902.611289, -722.758041) " cx="902.611289" cy="722.758041" r="1.5"></circle>
+                    <circle fill-opacity="0.3" opacity="0.97" transform="translate(786.296941, 275.062487) rotate(-71.000000) translate(-786.296941, -275.062487) " cx="786.296941" cy="275.062487" r="1.5"></circle>
+                    <circle opacity="0.87" transform="translate(1245.299411, 415.869256) rotate(-145.000000) translate(-1245.299411, -415.869256) " cx="1245.29941" cy="415.869256" r="1"></circle>
+                    <circle opacity="0.8" transform="translate(1154.134277, 466.376562) rotate(-111.000000) translate(-1154.134277, -466.376562) " cx="1154.13428" cy="466.376562" r="1"></circle>
+                    <circle opacity="0.85" transform="translate(939.383339, 202.207961) rotate(-229.000000) translate(-939.383339, -202.207961) " cx="939.383339" cy="202.207961" r="1"></circle>
+                    <circle opacity="0.86" transform="translate(1052.536684, 329.715181) rotate(-209.000000) translate(-1052.536684, -329.715181) " cx="1052.53668" cy="329.715181" r="1"></circle>
+                    <circle opacity="0.72" transform="translate(975.064966, 677.067383) rotate(-353.000000) translate(-975.064966, -677.067383) " cx="975.064966" cy="677.067383" r="1"></circle>
+                    <circle opacity="0.87" transform="translate(1000.105939, 515.644297) rotate(-22.000000) translate(-1000.105939, -515.644297) " cx="1000.10594" cy="515.644297" r="1.5"></circle>
+                    <circle fill-opacity="0.5" opacity="0.86" transform="translate(1136.001388, 659.290578) rotate(-207.000000) translate(-1136.001388, -659.290578) " cx="1136.00139" cy="659.290578" r="1"></circle>
+                    <circle fill-opacity="0.5" opacity="0.71" transform="translate(1005.637064, 578.363862) rotate(-135.000000) translate(-1005.637064, -578.363862) " cx="1005.63706" cy="578.363862" r="1"></circle>
+                    <circle fill-opacity="0.5" opacity="0.71" transform="translate(825.055957, 662.232831) rotate(-163.000000) translate(-825.055957, -662.232831) " cx="825.055957" cy="662.232831" r="1"></circle>
+                    <circle fill-opacity="0.5" opacity="0.91" transform="translate(760.507375, 565.553653) rotate(-52.000000) translate(-760.507375, -565.553653) " cx="760.507375" cy="565.553653" r="1.5"></circle>
+                    <circle fill-opacity="0.7" opacity="0.86" transform="translate(1226.204209, 579.525292) rotate(-134.000000) translate(-1226.204209, -579.525292) " cx="1226.20421" cy="579.525292" r="1.5"></circle>
+                    <circle opacity="0.75" transform="translate(813.192696, 724.405645) rotate(-222.000000) translate(-813.192696, -724.405645) " cx="813.192696" cy="724.405645" r="1"></circle>
+                    <circle opacity="0.7" transform="translate(1106.411500, 206.985723) rotate(-36.000000) translate(-1106.411500, -206.985723) " cx="1106.4115" cy="206.985723" r="1"></circle>
+                    <circle opacity="0.74" transform="translate(876.869725, 621.358514) rotate(-163.000000) translate(-876.869725, -621.358514) " cx="876.869725" cy="621.358514" r="1.5"></circle>
+                    <circle opacity="0.83" transform="translate(962.180671, 305.788661) rotate(-297.000000) translate(-962.180671, -305.788661) " cx="962.180671" cy="305.788661" r="1"></circle>
+                    <circle opacity="0.86" transform="translate(1016.316728, 755.910074) rotate(-244.000000) translate(-1016.316728, -755.910074) " cx="1016.31673" cy="755.910074" r="1"></circle>
+                    <circle opacity="0.96" transform="translate(961.069789, 453.099567) rotate(-65.000000) translate(-961.069789, -453.099567) " cx="961.069789" cy="453.099567" r="1.5"></circle>
+                    <circle opacity="0.84" transform="translate(869.375872, 373.535853) rotate(-10.000000) translate(-869.375872, -373.535853) " cx="869.375872" cy="373.535853" r="1.5"></circle>
+                    <circle fill-opacity="0.15" opacity="0.97" transform="translate(1056.117591, 421.717015) rotate(-20.000000) translate(-1056.117591, -421.717015) " cx="1056.11759" cy="421.717015" r="1.5"></circle>
+                    <circle fill-opacity="0.15" opacity="0.94" transform="translate(824.504476, 474.176694) rotate(-358.000000) translate(-824.504476, -474.176694) " cx="824.504476" cy="474.176694" r="1"></circle>
+                    <circle fill-opacity="0.15" transform="translate(692.372064, 220.876222) rotate(-170.000000) translate(-692.372064, -220.876222) " cx="692.372064" cy="220.876222" r="1.5"></circle>
+                    <circle opacity="0.84" transform="translate(1078.723019, 781.049298) rotate(-242.000000) translate(-1078.723019, -781.049298) " cx="1078.72302" cy="781.049298" r="1.5"></circle>
+                    <circle opacity="0.89" transform="translate(1192.868432, 712.464372) rotate(-195.000000) translate(-1192.868432, -712.464372) " cx="1192.86843" cy="712.464372" r="1"></circle>
+                    <circle opacity="0.83" transform="translate(703.174438, 779.512064) rotate(-199.000000) translate(-703.174438, -779.512064) " cx="703.174438" cy="779.512064" r="1.5"></circle>
+                    <circle opacity="0.7" transform="translate(695.218166, 357.596289) rotate(-39.000000) translate(-695.218166, -357.596289) " cx="695.218166" cy="357.596289" r="1"></circle>
+                    <circle opacity="0.86" transform="translate(734.276551, 328.767704) rotate(-69.000000) translate(-734.276551, -328.767704) " cx="734.276551" cy="328.767704" r="1.5"></circle>
+                </g>
+            </g>
+            <g id="Clouds" fill-rule="nonzero" mask="url(#mask-2)">
+                <use fill="url(#linearGradient-3)" xlink:href="#path-5"></use>
+                <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+            </g>
+            <g id="Clouds" fill-rule="nonzero" mask="url(#mask-2)">
+                <use fill="url(#linearGradient-6)" xlink:href="#path-8"></use>
+                <use fill="url(#linearGradient-7)" xlink:href="#path-8"></use>
+            </g>
+        </g>
+    </g>
+</svg>

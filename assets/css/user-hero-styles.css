@@ -1,0 +1,241 @@
+/********** ANIMATIONS **********/
+
+@keyframes truckPath {
+    0% { width: 0; }
+    100% { width: 100% }
+}
+
+@keyframes bounce {
+    0%   { transform: scale(1,1)    translateY(0); }
+    10%  { transform: scale(1.05,1) translateY(0); }
+    30%  { transform: scale(1,1.05) translateY(-8px); }
+    50%  { transform: scale(1,1)    translateY(0); }
+    57%  { transform: scale(1,1)    translateY(-1px); }
+    64%  { transform: scale(1,1)    translateY(0); }
+    100% { transform: scale(1,1)    translateY(0); }
+}
+
+@keyframes skew {
+    0% { transform: skewY(0deg); }
+    80% { transform: skewY(2deg); }
+    85% { transform: skewY(4deg); }
+    90% { transform: skewY(6deg); }
+    95% { transform: skewY(4deg); }
+    100% { transform: skewY(0deg); }  
+}
+
+@keyframes fadeInUp {
+    from {
+        transform: translate3d(0,40px,0);
+    }
+
+    to {
+        transform: translate3d(0,0,0);
+        opacity: 1;
+    }
+}
+
+
+/********** HERO OBJECTS **********/
+
+/*styles for all*/
+.brand-scenery__focusChildren {
+    height: 200px;
+    width: 300px;
+    bottom: 0;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+    z-index: 3;  /*on top of snow */ 
+}
+.brand-scenery__focusChildren > * {
+    position: absolute;
+}
+
+/***phone***/
+.brand-scenery__focus--phone { 
+    background: url(../images/phone-cta.png) no-repeat;
+    background-size: 325px;
+    width: 300px;
+    height: 500px;
+    margin-top: 20px;
+}
+
+/***truck***/
+.brand-scenery__truckPath--truck {
+  flex-shrink: 0;
+    background: url(../images/truck.svg) no-repeat;
+    background-size: cover;
+    width: 231px;
+    height: 79px;
+}
+.bran-scenery__truckMask--truckContainer {
+  position: relative;
+  margin: 0 -50px;
+}
+
+.brand-scenery--truckMask {
+  overflow: hidden;
+    position: absolute;
+    bottom: 8px;
+    left: -231px;
+    right: -231px;
+    z-index: 5;
+}
+.brand-scenery__truckContainer--truckPath {
+  animation: cubic-bezier(0.8, 0, 1, 1) forwards;
+  animation-name: truckPath;
+  animation-duration: 5s;
+  position: relative;
+  display: flex;
+  width: 50px;
+  justify-content: flex-end;
+    align-items: baseline;
+}
+
+/***trail***/
+.brand-scenery__truckPath--trail {
+  height: 50px;
+  flex-basis: 100%;
+  background: url(../images/trail.svg) repeat-x 0 100%;
+}
+
+/***trees***/
+.brand-scenery__object--tree-round {
+    right: -8%;
+    bottom: 30px;
+    width: 55px;
+    height: 91px;
+    background: url(../images/tree-2.svg) no-repeat;
+    background-size: contain;
+    animation: skew 5s;
+}
+.brand-scenery__object--tree-oval {
+    left: -20%;
+    bottom: 30px;
+    width: 55px;
+    height: 91px;
+    background: url(../images/tree.svg) no-repeat;
+    background-size: contain;
+    animation: skew 5s;
+}
+
+/***houses***/
+.brand-scenery__object--house-orange {
+    left: -70%;
+    bottom: 30px;
+    width: 176px;
+    height: 174px;
+    background: url(../images/orange-house.svg) no-repeat;
+    background-size: contain;
+    
+    animation-duration: 1.7s;
+    animation-iteration-count: 1;
+    background-size: 100%;
+    transform-origin: bottom;
+    animation-name: bounce;  
+}
+.brand-scenery__object--house-purple {
+    right: -84%;
+    bottom: 30px;
+    width: 206px;
+    height: 170px;
+    background: url(../images/purple-house.svg) no-repeat;
+    background-size: contain;
+    
+    animation-duration: 1.7s;
+    animation-iteration-count: 1;
+    background-size: 100%;
+    transform-origin: bottom;
+    animation-name: bounce;
+}
+
+.brand-scenery__object__sidewalk {
+    position: relative;
+    background: #9adffa;
+    top: 174px;
+    height: 26px;
+    left: 17px;
+    width: 48px;
+    opacity: 0;
+}
+.brand-scenery__object__driveway {
+    position: relative;
+    background: #9adffa;
+    top: 167px;
+    height: 30px;
+    left: 23px;
+    width: 115px;
+    opacity: 0;
+}
+
+.brand-scenery__object--house-orange.brand-scenery__object__sidewalk--plowed .brand-scenery__object__sidewalk {
+    opacity: 1;
+}
+.brand-scenery__object--house-purple.brand-scenery__object__driveway--plowed .brand-scenery__object__driveway {
+    opacity: 1;
+    animation-name: fadeInUp;
+}
+
+/***igloo***/
+.brand-scenery__object--igloo {
+    left: -8%;
+    bottom: 10px;
+    width: 78px;
+    height: 44px;
+    background: url(../images/igloo.svg) no-repeat;
+    background-size: contain;
+}
+
+
+
+/********** HERO FOREGROUND **********/
+
+.brand-scenery__foreground {
+    position: relative;
+}
+.brand-scenery__stage  {
+    overflow: hidden;
+}
+.brand-scenery__snow {
+    height: 50px;
+    background: url(../images/ground.svg) 0 0 no-repeat;
+    background-size: cover;
+    position: absolute;
+    bottom: 0;
+    left: -200px;
+    right: -200px;
+    z-index: 2; /*on top of spacer */
+}
+
+
+
+/********** HERO MIDDLEGROUND **********/
+
+.brand-scenery__focus {
+    position: relative;
+    display: inline-block;
+}
+
+
+
+/********** HERO BACKGROUND **********/
+
+.brand-scenery {
+    background-image: linear-gradient(to bottom, #0b3573, #005798, #007cbc, #00a2de, #24c9fd);
+    background-size: 100%;
+    background-position: 0px 0px;
+    position: relative;
+}
+.brand-scenery__background {
+    background: url(../images/bg-sky.svg) repeat-x;
+    background-position: -10% 0;
+}
+@media (min-width: 768px) {
+    .brand-scenery__background {
+        background: url(../images/bg-sky.svg) repeat-x;
+        background-position: 50% -240px;
+    }
+}
+
+

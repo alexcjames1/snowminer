@@ -1,0 +1,129 @@
+/********** SECTION: Driver Landing Hero **********/
+
+.section--driverHero {
+    background: linear-gradient(180deg, #1F3861 0%, rgba(31,56,97,0) 100%), url("../images/driver-hero.jpg") no-repeat;
+    background-size: cover;
+    background-position: 50% 0;
+}
+@media (min-width: 768px) {
+    .section--driverHero {
+        background-position: 0 50%;
+    }
+}
+.section--driverHero .section__content {
+        margin: 0.75em 0 1.25em 0;
+}
+
+
+
+ /********** SECTION: Driver Features **********/
+
+.driverFeatures .media {
+    text-align: center;
+    margin: 1.25rem;
+}
+    .driverFeatures .media .media__figure img {
+        width: 140px;
+    }
+
+
+
+ /********** SECTION: Low Risk High Return **********/
+
+.section__lowRiskhighReturn {
+    background: linear-gradient(45deg, rgba(0,168,168,1) 0%, rgba(87,255,151,1) 100%);
+    padding: 3em 0 3em 0;
+}
+
+.section__lowRiskhighReturn .button--link {
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: 900;
+}
+    .section__lowRiskhighReturn .row {
+        align-items: center;
+        justify-content:  center;
+    }   
+        .section__lowRiskhighReturn .col__content {
+            max-width: 80%;   
+        }
+            .section__lowRiskhighReturn .section__title h2 {
+                color: #fff;
+            }
+            .section__lowRiskhighReturn .section__subTitle {
+                font-weight: 300;
+                margin: 0.625em 0;
+            }
+@media (min-width: 768px) {
+    .section__lowRiskhighReturn .col__content {
+            max-width: 40%;
+            
+        }
+}
+
+
+
+ /********** SECTION: Market Ease **********/
+
+.section__marketEase .section__subTitle h4 {
+    font-weight: 300;
+    line-height: 1.5em;
+    margin-bottom: 0.625em;
+}
+
+.section__marketEase .section__lead {
+    font-family: sans-serif;
+    line-height: 1.625em;
+}
+.section__marketEase .col-sm-4 {
+    padding: 1.25rem;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.section__marketEase .button--action {
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 700;
+    background-color: var(--primaryColor);
+    border-radius: 4px;
+    box-shadow: 0 2px 10px 0 rgba(35,10,74,0.15);
+    padding: 0.75em 1.25rem;
+    
+}
+.section__marketEase .container__footer {
+    text-align: center;
+}
+
+
+
+ /********** SECTION: Easy Beautiful Interface **********/
+
+    .section__easyBeautifulinterface .row {
+        align-items: center;
+        margin: 1.25rem;
+    }
+    .section__easyBeautifulinterface .media__subTitle {
+        color: var(--primaryColor);
+    }
+    .section__easyBeautifulinterface .media__content {
+        margin-bottom: 1.875em;
+    }
+.section__easyBeautifulinterface .media__figure {text-align: center;}
+    .section__easyBeautifulinterface .media__figure img {
+        margin-bottom: 1.25em;
+        max-width: 70%;
+    }
+
+
+
+/********** SECTION: Final things to click **********/ 
+
+.section__finalThingstoClick .button--link {
+    color: var(--primaryColor);
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.section__finalThingstoClick {
+    margin-bottom: 1.25em;
+}

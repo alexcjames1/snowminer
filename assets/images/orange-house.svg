@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="311px" height="310px" viewBox="0 0 311 310" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>orange-house</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="1.46956876 0.966952928 235.057438 0.966952928 235.057438 161.796202 1.46956876 161.796202"></polygon>
+        <path d="M6.04526498,0.345205398 L217.122272,0.345205398 C219.978917,0.345205398 222.294685,2.66097393 222.294685,5.51761919 L222.294685,61.2653753 L0.872851184,61.2653753 L0.872851184,5.51761919 C0.872851184,2.66097393 3.18861972,0.345205398 6.04526498,0.345205398 Z" id="path-3"></path>
+        <polygon id="path-5" points="0 112.301739 105.65587 0 212.826813 112.301739 212.826813 132.105167 0 132.105167"></polygon>
+        <linearGradient x1="-13.230456%" y1="112.716542%" x2="98.914681%" y2="-5.00594429%" id="linearGradient-7">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#A1E5FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="78.6417643%" y1="0%" x2="78.6417663%" y2="276.222855%" id="linearGradient-8">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#A6E0F6" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-9" points="128.564708 0 260.685091 132.105167 1.63647026 132.105167"></polygon>
+    </defs>
+    <g id="Splash-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="orange-house" transform="translate(0.000000, 10.000000)">
+            <g id="Rectangle-8" transform="translate(44.761364, 137.931034)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFBB75" xlink:href="#path-1"></use>
+            </g>
+            <g id="Path-9" transform="translate(55.090909, 36.206897)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Mask" fill="#FF7554" xlink:href="#path-3"></use>
+                <path d="M-10.7649869,22.3481277 C-10.1391833,30.1434204 -6.24729484,34.0410668 0.910678495,34.0410668 C11.6476385,34.0410668 20.2387806,14.9380388 29.2317394,14.9380388 C38.2246982,14.9380388 54.679005,37.0167699 76.2409224,37.0167699 C97.8028398,37.0167699 114.341209,10.100687 135.864458,10.100687 C157.387706,10.100687 189.28085,34.0410668 204.66925,34.0410668 C220.05765,34.0410668 220.688098,7.57959959 231.091627,7.57959959 C238.027313,7.57959959 233.88698,0.154539094 218.670627,-14.6955819 L-4.87559925,-10.9476024 L-10.7649869,22.3481277 Z" fill="#FFFFFF" mask="url(#mask-4)"></path>
+            </g>
+            <g id="Roof" transform="translate(31.631691, 0.000000)">
+                <g id="Siding" transform="translate(27.887651, 7.345976)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Mask" fill="#5CCAC6" xlink:href="#path-5"></use>
+                    <polygon id="Rectangle-52" fill="#47B8B5" mask="url(#mask-6)" points="-1.46777112 115.95898 212.826813 115.95898 212.826813 118.89465 -1.46777112 118.89465"></polygon>
+                    <polygon id="Rectangle-52" fill="#47B8B5" mask="url(#mask-6)" points="4.40331337 101.280628 212.826813 101.280628 212.826813 104.216298 4.40331337 104.216298"></polygon>
+                    <polygon id="Rectangle-52" fill="#47B8B5" mask="url(#mask-6)" points="4.40331337 86.6022758 212.826813 86.6022758 212.826813 89.5379462 4.40331337 89.5379462"></polygon>
+                    <polygon id="Rectangle-52" fill="#47B8B5" mask="url(#mask-6)" points="27.8876513 71.923924 186.406932 71.923924 186.406932 74.8595944 27.8876513 74.8595944"></polygon>
+                    <polygon id="Rectangle-52" fill="#47B8B5" mask="url(#mask-6)" points="42.5653625 57.2455722 171.729221 57.2455722 171.729221 60.1812425 42.5653625 60.1812425"></polygon>
+                    <polygon id="Rectangle-52" fill="#47B8B5" mask="url(#mask-6)" points="55.7753026 42.5672203 155.583739 42.5672203 155.583739 45.5028907 55.7753026 45.5028907"></polygon>
+                    <polygon id="Rectangle-52" fill="#47B8B5" mask="url(#mask-6)" points="67.5174716 27.8888685 143.84157 27.8888685 143.84157 30.8245389 67.5174716 30.8245389"></polygon>
+                    <polygon id="Rectangle-52" fill="#47B8B5" mask="url(#mask-6)" points="77.7918695 13.2105167 133.567172 13.2105167 133.567172 16.146187 77.7918695 16.146187"></polygon>
+                </g>
+                <g id="Group-14" transform="translate(118.889461, 67.527218)">
+                    <polygon id="Rectangle-29" fill="#CAF4F3" points="3.44358134 5.26366952 25.82686 5.26366952 25.82686 19.3001216 3.44358134 19.3001216"></polygon>
+                    <polygon id="Rectangle-29" fill="#CAF4F3" points="3.44358134 24.5637911 25.82686 24.5637911 25.82686 38.6002431 3.44358134 38.6002431"></polygon>
+                    <polygon id="Rectangle-30" fill="#93E4E3" points="5.165372 5.26366952 8.60895334 5.26366952 8.60895334 38.6002431 5.165372 38.6002431"></polygon>
+                    <path d="M0,0 L29.2704414,0 L29.2704414,43.8639127 L0,43.8639127 L0,0 Z M5.165372,5.26366952 L5.165372,38.6002431 L24.1050694,38.6002431 L24.1050694,5.26366952 L5.165372,5.26366952 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                    <polygon id="Rectangle-28" fill="#FFFFFF" points="3.44358134 19.3001216 25.82686 19.3001216 25.82686 24.5637911 3.44358134 24.5637911"></polygon>
+                    <polygon id="Rectangle-31" fill="#93E4E3" points="5.165372 5.26366952 24.1050694 5.26366952 24.1050694 8.77278253 5.165372 8.77278253"></polygon>
+                </g>
+                <path d="M133.567172,0.00679971733 L0,135.047637" id="Line" stroke="url(#linearGradient-7)" stroke-width="18.1944204" stroke-linecap="round"></path>
+                <path d="M270.069886,0.00679971733 L133.567172,135.047637" id="Line-Copy-2" stroke="url(#linearGradient-8)" stroke-width="18.1944204" stroke-linecap="round" transform="translate(201.818529, 67.527218) scale(-1, 1) translate(-201.818529, -67.527218) "></path>
+                <path d="M144.575456,15.4190691 L144.575456,40.3722673" id="Line" stroke="#FFFFFF" stroke-width="3.89880437" stroke-linecap="round"></path>
+                <path d="M198.882987,71.1968061 L198.882987,85.875158" id="Line" stroke="#FFFFFF" stroke-width="3.89880437" stroke-linecap="round"></path>
+                <path d="M94.6712374,43.3079376 L94.6712374,63.8576302" id="Line" stroke="#FFFFFF" stroke-width="3.89880437" stroke-linecap="round"></path>
+                <path d="M87.3323818,53.5827839 L87.3323818,68.2611358" id="Line" stroke="#FFFFFF" stroke-width="3.89880437" stroke-linecap="round"></path>
+                <path d="M37.4281636,102.021345 L37.4281636,116.699697" id="Line" stroke="#FFFFFF" stroke-width="3.89880437" stroke-linecap="round"></path>
+                <path d="M153.382082,22.7582451 L153.382082,47.7114432" id="Line" stroke="#FFFFFF" stroke-width="3.89880437" stroke-linecap="round"></path>
+                <g id="Siding" transform="translate(4.978814, 7.345976)">
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <use id="Mask" fill="#FF9654" xlink:href="#path-9"></use>
+                    <polygon id="Rectangle-52" fill="#FFBB75" mask="url(#mask-10)" points="14.2978971 115.95898 246.109104 115.95898 246.109104 118.89465 14.2978971 118.89465"></polygon>
+                    <polygon id="Rectangle-52" fill="#FFBB75" mask="url(#mask-10)" points="27.3121509 101.280628 235.73565 101.280628 235.73565 104.216298 27.3121509 104.216298"></polygon>
+                    <polygon id="Rectangle-52" fill="#FFBB75" mask="url(#mask-10)" points="27.3121509 86.6022758 235.73565 86.6022758 235.73565 89.5379462 27.3121509 89.5379462"></polygon>
+                    <polygon id="Rectangle-52" fill="#FFBB75" mask="url(#mask-10)" points="50.7964889 71.923924 209.31577 71.923924 209.31577 74.8595944 50.7964889 74.8595944"></polygon>
+                    <polygon id="Rectangle-52" fill="#FFBB75" mask="url(#mask-10)" points="65.4742001 57.2455722 194.638059 57.2455722 194.638059 60.1812425 65.4742001 60.1812425"></polygon>
+                    <polygon id="Rectangle-52" fill="#FFBB75" mask="url(#mask-10)" points="78.6841402 42.5672203 178.492577 42.5672203 178.492577 45.5028907 78.6841402 45.5028907"></polygon>
+                    <polygon id="Rectangle-52" fill="#FFBB75" mask="url(#mask-10)" points="90.4263092 27.8888685 166.750408 27.8888685 166.750408 30.8245389 90.4263092 30.8245389"></polygon>
+                    <polygon id="Rectangle-52" fill="#FFBB75" mask="url(#mask-10)" points="100.700707 13.2105167 156.47601 13.2105167 156.47601 16.146187 100.700707 16.146187"></polygon>
+                </g>
+                <g id="Group-14" transform="translate(118.889461, 67.527218)">
+                    <polygon id="Rectangle-29" fill="#FFDAC3" points="3.44358134 5.26366952 25.82686 5.26366952 25.82686 19.3001216 3.44358134 19.3001216"></polygon>
+                    <polygon id="Rectangle-29" fill="#FFDAC3" points="3.44358134 24.5637911 25.82686 24.5637911 25.82686 38.6002431 3.44358134 38.6002431"></polygon>
+                    <polygon id="Rectangle-30" fill="#FF9654" points="5.165372 5.26366952 8.60895334 5.26366952 8.60895334 38.6002431 5.165372 38.6002431"></polygon>
+                    <path d="M0,0 L29.2704414,0 L29.2704414,43.8639127 L0,43.8639127 L0,0 Z M5.165372,5.26366952 L5.165372,38.6002431 L24.1050694,38.6002431 L24.1050694,5.26366952 L5.165372,5.26366952 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                    <polygon id="Rectangle-28" fill="#FFFFFF" points="3.44358134 19.3001216 25.82686 19.3001216 25.82686 24.5637911 3.44358134 24.5637911"></polygon>
+                    <polygon id="Rectangle-31" fill="#FF9654" points="5.165372 5.26366952 24.1050694 5.26366952 24.1050694 8.77278253 5.165372 8.77278253"></polygon>
+                </g>
+                <path d="M133.567172,0.00679971733 L0,135.047637" id="Line" stroke="url(#linearGradient-7)" stroke-width="18.1944204" stroke-linecap="round"></path>
+                <path d="M270.069886,0.00679971733 L133.567172,135.047637" id="Line-Copy-2" stroke="url(#linearGradient-8)" stroke-width="18.1944204" stroke-linecap="round" transform="translate(201.818529, 67.527218) scale(-1, 1) translate(-201.818529, -67.527218) "></path>
+                <path d="M144.575456,15.4190691 L144.575456,40.3722673" id="Line" stroke="#FFFFFF" stroke-width="3.89880437" stroke-linecap="round"></path>
+                <path d="M198.882987,71.1968061 L198.882987,85.875158" id="Line" stroke="#FFFFFF" stroke-width="3.89880437" stroke-linecap="round"></path>
+                <path d="M94.6712374,43.3079376 L94.6712374,63.8576302" id="Line" stroke="#FFFFFF" stroke-width="3.89880437" stroke-linecap="round"></path>
+                <path d="M87.3323818,53.5827839 L87.3323818,68.2611358" id="Line" stroke="#FFFFFF" stroke-width="3.89880437" stroke-linecap="round"></path>
+                <path d="M37.4281636,102.021345 L37.4281636,116.699697" id="Line" stroke="#FFFFFF" stroke-width="3.89880437" stroke-linecap="round"></path>
+                <path d="M153.382082,22.7582451 L153.382082,47.7114432" id="Line" stroke="#FFFFFF" stroke-width="3.89880437" stroke-linecap="round"></path>
+            </g>
+            <polygon id="Rectangle-72" fill="#FFAB54" points="9.82160871 138.897987 133.826383 138.897987 133.826383 153.518828 9.82160871 153.518828"></polygon>
+            <polygon id="Rectangle-67" fill="#FF9654" points="116.793934 157.850384 126.526762 157.850384 126.526762 272.922361 116.793934 272.922361"></polygon>
+            <polygon id="Rectangle-67-Copy" fill="#FF9654" points="17.0324488 157.850384 26.7652767 157.850384 26.7652767 272.922361 17.0324488 272.922361"></polygon>
+            <polygon id="Rectangle-71" fill="#FF8B54" points="4.86641394 153.518828 138.70245 153.518828 138.70245 160.829249 4.86641394 160.829249"></polygon>
+            <rect id="Rectangle-9" fill="#FFDAC3" x="65.4204545" y="172.413793" width="30.9886364" height="91.3793103"></rect>
+            <path d="M69.8329232,172.413793 L96.3380585,172.413793 L96.3380585,176.845213 L69.8329232,176.845213 L69.8329232,263.810362 L65.4204545,263.810362 L65.4204545,172.413793 L69.8329232,172.413793 Z" id="Combined-Shape" fill="#FF9654"></path>
+            <path d="M60.1855208,170.576476 L101.483077,170.576476 L101.483077,265.517241 L60.1855208,265.517241 L60.1855208,170.576476 Z M65.4204545,172.413793 L65.4204545,191.436557 L96.4090909,191.436557 L96.4090909,172.413793 L65.4204545,172.413793 Z M65.4204545,196.551724 L65.4204545,231.09173 L96.4090909,231.09173 L96.4090909,196.551724 L65.4204545,196.551724 Z M65.3518927,236.206897 L65.3518927,264.806462 L96.3405291,264.806462 L96.3405291,236.206897 L65.3518927,236.206897 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            <rect id="Rectangle-5" fill="#FF7554" x="63.6988636" y="218.965517" width="9.73282787" height="3.44827586"></rect>
+            <polygon id="Rectangle-68" fill="#FFAB54" points="56.8125 263.793103 107.909846 263.793103 107.909846 273.540331 56.8125 273.540331"></polygon>
+            <polygon id="Rectangle-65" fill="#FF7554" points="0.0261379655 285.106395 143.559211 285.106395 143.559211 299.727236 0.0261379655 299.727236"></polygon>
+            <polygon id="Rectangle-66" fill="#FF8B54" points="9.73282787 272.922361 133.8197 272.922361 133.8197 285.106395 9.73282787 285.106395"></polygon>
+            <g id="Two-Large-Windows" transform="translate(141.837620, 173.427151)">
+                <rect id="Rectangle-34" fill="#FF7554" x="0.586727743" y="1.72413793" width="19.4656557" height="80.407277"></rect>
+                <rect id="Rectangle-34" fill="#FF7554" x="98.1306818" y="1.72413793" width="19.4656557" height="80.407277"></rect>
+                <polygon id="Rectangle-42" fill="#FFDAC3" points="24.4648522 4.43141962 53.1458985 4.43141962 53.1458985 75.3341335 24.4648522 75.3341335"></polygon>
+                <polygon id="Rectangle-42" fill="#FFDAC3" points="66.3833045 4.43141962 95.0643509 4.43141962 95.0643509 75.3341335 66.3833045 75.3341335"></polygon>
+                <path d="M31.0835552,6.64712942 L50.9396642,6.64712942 L50.9396642,11.078549 L31.0835552,11.078549 L31.0835552,73.1184237 L26.6710865,73.1184237 L26.6710865,6.64712942 L31.0835552,6.64712942 Z" id="Combined-Shape" fill="#FF9654"></path>
+                <path d="M73.0020075,6.64712942 L92.8581166,6.64712942 L92.8581166,11.078549 L73.0020075,11.078549 L73.0020075,73.1184237 L68.5895389,73.1184237 L68.5895389,6.64712942 L73.0020075,6.64712942 Z" id="Combined-Shape" fill="#FF9654"></path>
+                <path d="M50.9396642,24.3728079 L50.9396642,6.64712942 L26.6710865,6.64712942 L26.6710865,24.3728079 L50.9396642,24.3728079 Z M50.9396642,31.0199373 L26.6710865,31.0199373 L26.6710865,73.1184237 L50.9396642,73.1184237 L50.9396642,31.0199373 Z M20.0523835,0 L57.5583672,0 L57.5583672,79.7655531 L20.0523835,79.7655531 L20.0523835,0 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <path d="M92.8581166,24.3728079 L92.8581166,6.64712942 L68.5895389,6.64712942 L68.5895389,24.3728079 L92.8581166,24.3728079 Z M92.8581166,31.0199373 L68.5895389,31.0199373 L68.5895389,73.1184237 L92.8581166,73.1184237 L92.8581166,31.0199373 Z M61.9708359,0 L99.4768196,0 L99.4768196,79.7655531 L61.9708359,79.7655531 L61.9708359,0 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <polygon id="Rectangle-40" fill="#FF9654" points="9.02121181 79.7655531 110.507991 79.7655531 110.507991 86.4126825 9.02121181 86.4126825"></polygon>
+                <polygon id="Rectangle-41" fill="#FF7554" points="13.4336805 86.4126825 106.095523 86.4126825 106.095523 90.8441021 13.4336805 90.8441021"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
